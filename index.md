@@ -13,7 +13,7 @@ LSTN is an app I'm building that allows users to rate, post, and review music. T
 ## League of Legends Champion Clustering
 [![League Champions](https://www.esportsbettingsite.com/wp-content/uploads/2018/05/league-of-legends-champions.jpg)](https://github.com/benfhicks/LoL-Champion-Clustering)
 
-**Using the LoLWatcher API and a k-means approach to create better overall champion classes than Riot.**
+Using the LoLWatcher API and a k-means approach to create better overall champion classes than Riot.
 
 **[Repo here](https://github.com/benfhicks/LoL-Champion-Clustering)**
 
