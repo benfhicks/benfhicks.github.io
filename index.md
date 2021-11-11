@@ -2,7 +2,7 @@
 
 ## Hi there! I'm Ben.
 
-I'm a Data Scientist in the retail sector with a passion for statistics and data science. I'm inquisitive and a self starter who's delivered strong business oriented results using Python, SQL, and R, focusing mainly on SQL and Python. I've got a strong knowledge of numerous libraries, including: numpy, pandas, sklearn, plotly, matplotlib, seaborn, tensorflow, and keras.
+I'm a Data Scientist in the retail sector with a passion for statistics, data science, and ML. I'm inquisitive and a self starter who's delivered strong business oriented results using Python, SQL, and R, focusing mainly on SQL and Python. I've got a strong knowledge of numerous libraries, including: numpy, pandas, sklearn, plotly, matplotlib, seaborn, tensorflow, and keras.
 
 # Portfolio
 
