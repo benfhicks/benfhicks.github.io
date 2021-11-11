@@ -8,7 +8,7 @@ I'm a Data Scientist in the retail sector with a passion for statistics and data
 
 ## LSTN app (WIP)
 
-**LSTN is an app I'm building that allows users to rate, post, and review music. The app features 4 pages: home, rate, rooms, and review. The home page will be a twitter like feed, that allows users to post their thoughts on new music. The rate page will allow users to search the Spotify API and rate albums out of 10, the rooms page will allow users to form communities to track eachothers scrores, averages, and behaviours. Finally the review page will be used to display listening stats for the user. The app is being built in React Native, and is currently a WIP. [Repo here](https://github.com/benfhicks/LSTN-App)**
+LSTN is an app I'm building that allows users to rate, post, and review music. The app features 4 pages: home, rate, rooms, and review. The home page will be a twitter like feed, that allows users to post their thoughts on new music. The rate page will allow users to search the Spotify API and rate albums out of 10, the rooms page will allow users to form communities to track eachothers scrores, averages, and behaviours. Finally the review page will be used to display listening stats for the user. The app is being built in React Native, and is currently a WIP. [Repo here](https://github.com/benfhicks/LSTN-App)
 
 ## League of Legends Champion Clustering
 [![League Champions](https://www.esportsbettingsite.com/wp-content/uploads/2018/05/league-of-legends-champions.jpg)](https://github.com/benfhicks/LoL-Champion-Clustering)
@@ -24,13 +24,14 @@ I'm a Data Scientist in the retail sector with a passion for statistics and data
 
 _Image by James Loy_
 
-**Building a single hidden layer perceptron model and predicting housing prices in Boston, followed by using Keras to implement a better approach.**
+Building a single hidden layer perceptron model and predicting housing prices in Boston, followed by using Keras to implement a better approach.
 
 **[Repo here](https://github.com/benfhicks/Neural-Nets-from-Scratch)**
 
 ## Clustering The Weeknd's music
 [![The Weeknd's music analysis](https://cdn.shopify.com/s/files/1/0408/9909/files/Untitled-1_copy_1024x1024.jpg?1569166321630548073)](https://github.com/benfhicks/The-Weeknd-Clustering)
-**Using Spotify data and k-means clustering to group The Weeknd's music.**
+
+Using Spotify data and k-means clustering to group The Weeknd's music.
 
 **[Repo here](https://github.com/benfhicks/The-Weeknd-Clustering)**
 
